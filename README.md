@@ -1,4 +1,5 @@
 <h1> PROGRAMACION EN JAVA </h1>
+17/06/2020 13:25 - Creo un proyecto de ejercicios de métodos y modularización en Java y agrego 8 ejercicios </br>
 15/06/2020 13:50 - Añado 11 ejercicios más al proyecto de ejercicios de colecciones y arrays </br>
 08/06/2020 22:50 - Creo un proyecto de ejercicios de colecciones y arrays de Java y agrego 3 ejercicios. </br>
 06/06/2020 14:55 - Añado 7 ejercicios más al proyexto de ejercicios de bucles </br>
