@@ -1,5 +1,9 @@
 package Ejercicio003;
 
+/* Escribir una función que reciba una frase y devuelva un diccionario con las palabras 
+ * que contiene y su longitud.
+ */
+
 import javax.swing.JOptionPane;
 
 public class Principal {
