@@ -1,4 +1,5 @@
 <h1> PROGRAMACION EN JAVA </h1>
+23/06/2020 22:10 - Añado 6 ejercicios más al proyecto de ejercicios miscelánea </br>
 22/06/2020 07:35 - Creo un proyecto de ejercicios miscelánea de Java y agrego 3 ejercicios </br>
 18/06/2020 11:30 - Añado 3 ejercicios más al proyecto de ejercicios de métodos y modularización </br>
 17/06/2020 13:25 - Creo un proyecto de ejercicios de métodos y modularización en Java y agrego 8 ejercicios </br>
