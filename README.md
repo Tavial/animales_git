@@ -1,6 +1,6 @@
 <h1> PROGRAMACION EN JAVA </h1>
 25/06/2020 10:40 - Creo un proyecto de ejercicios de tipos enumerados de Java y agrego implementación </br>
-del juego piedra-papel-tijera. También queda reflejado herencia y clases y métodos abstractos. </br>
+del juego piedra-papel-tijera. También queda reflejado herencia junto con clases y métodos abstractos. </br>
 23/06/2020 22:10 - Añado 6 ejercicios más al proyecto de ejercicios miscelánea </br>
 22/06/2020 07:35 - Creo un proyecto de ejercicios miscelánea de Java y agrego 3 ejercicios </br>
 18/06/2020 11:30 - Añado 3 ejercicios más al proyecto de ejercicios de métodos y modularización </br>
