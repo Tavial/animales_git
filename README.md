@@ -1,4 +1,6 @@
 <h1> PROGRAMACION EN JAVA </h1>
+26/06/2020 11:35 - Creo un proyexto de ejercicios de Programación Orientada a Objetos en Java y agrego </br>
+implementación de una calculadora de números complejos <br/>
 25/06/2020 10:40 - Creo un proyecto de ejercicios de tipos enumerados de Java y agrego implementación </br>
 del juego piedra-papel-tijera. También queda reflejado herencia junto con clases y métodos abstractos. </br>
 23/06/2020 22:10 - Añado 6 ejercicios más al proyecto de ejercicios miscelánea </br>
