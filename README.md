@@ -1,4 +1,7 @@
 <h1> PROGRAMACION EN JAVA </h1>
+03/07/2020 11:40 - Creo un proyecto de ejercicios de Swing. Añado un ejercicio  Rectas y figuras. </br>
+Crear y colorear una mandala. </br>
+03/07/2020 11:40 - Añado 2 ejercicios más al proyecto de Programación Orientada a Objetos en Java </br>
 26/06/2020 11:35 - Creo un proyecto de ejercicios de Programación Orientada a Objetos en Java y agrego </br>
 implementación de una calculadora de números complejos <br/>
 25/06/2020 10:40 - Creo un proyecto de ejercicios de tipos enumerados de Java y agrego implementación </br>
