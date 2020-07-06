@@ -1,4 +1,5 @@
 <h1> PROGRAMACION EN JAVA </h1>
+06/07/2020 23:55 - Añado un nuevo ejercicio de Swing. Conversor de tres divisas </br>
 03/07/2020 11:40 - Creo un proyecto de ejercicios de Swing. Añado un ejercicio  Rectas y figuras. </br>
 Crear y colorear una mandala. </br>
 03/07/2020 11:40 - Añado 2 ejercicios más al proyecto de Programación Orientada a Objetos en Java </br>
