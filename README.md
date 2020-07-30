@@ -1,6 +1,8 @@
 <h1> PROGRAMACION EN JAVA </h1>
-30/07/2020 13:45 - Añado una aplicación CRUD Web para gestión de una inmobiliaria (HouseSale) (con uso de base de datos)  </br>
-30/07/2020 13:40 - Añado una aplicación CRUD de escritorio para gestión de una agencia de futbolistas (SoccerAgency) (con uso de ficheros) </br>
+30/07/2020 13:55 - Añado una aplicación CRUD Web para gestión de una inmobiliaria (HouseSale) (con uso de base de datos)  </br>
+30/07/2020 13:50 - Añado una aplicación CRUD de escritorio para gestión de una agencia de futbolistas (SoccerAgency) (con uso de ficheros) </br>
+30/07/2020 13:45 - Añado juego de alcanzar con una pelota la meta </br> 
+30/07/2020 13:40 - Añado juego de buscar las 5 diferencias </br>
 06/07/2020 23:55 - Añado un nuevo ejercicio de Swing. Conversor de tres divisas </br>
 03/07/2020 11:40 - Creo un proyecto de ejercicios de Swing. Añado un ejercicio  Rectas y figuras. </br>
 Crear y colorear una mandala. </br>
