@@ -1,0 +1,6 @@
+Tatiana -> Partidas ganadas: 1
+Tatiana -> Partidas ganadas: 1
+Alfredo -> Partidas ganadas: 4
+Tatiana -> Partidas ganadas: 4
+Alfredo -> Partidas ganadas: 1
+Tatiana -> Partidas ganadas: 0
