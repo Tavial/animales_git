@@ -1,0 +1,431 @@
+@charset "ISO-8859-1";
+/**************** MENU.JSP  **************************/
+
+.menu {
+	padding: 0%;
+ }
+.menu li {
+	display: inline;
+
+}
+
+.menu li a {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+ 	text-decoration: none;
+	padding: 0.5%;
+ 	background-color: #000000;
+ 	color: #ffffff;
+ 	border-style: solid;
+ 	border-color:#5878CA;
+}
+.menu li a:hover{
+	background-color: #ffffff;
+ 	margin-top: -2;
+ 	padding-bottom: 12px;
+ 	color: #000000;
+	
+}
+.housesale{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	width:98%;
+    position:static;
+	color: #000000; 
+	font-size: 2.5em; 
+	font-weight: 800; 
+	text-align: center; 
+	background: #ffffff; 
+	margin-top: 2%;
+	margin-left: 0%;
+	overflow: hidden; 
+	padding: 0.5%; 
+	border-radius: 35px 0px 35px 0px; 
+	-moz-border-radius: 35px 0px 35px 0px; 
+	-webkit-border-radius: 35px 0px 35px 0px; 
+	border: 4px solid #5878CA;
+}
+
+/******************  INDEX.JSP **************************/
+.body_index {
+        background-image:url("FondoAdmin.jpg") ;
+     	background-position: center center;
+     	background-repeat: no-repeat;
+     	background-attachment:fixed;
+     	background-size:cover;
+     	background-color: #000000;
+}
+
+/******************* GESTION DE VIVIENDAS  *************************/
+
+.contenedor{
+    width: 98%;
+}
+.anuncio{
+	float:left;
+    margin-top: 2%;
+    width: 99%;
+    background: #ffffff;
+    color: #000000;
+    padding: 1% 1% 1% 1%;
+    box-shadow:-4px -4px 1px #438a5e;
+    -webkit-box-shadow: 10px 10px 5px -2px #5878CA;
+	-moz-box-shadow: 10px 10px 5px -2px #5878CA;
+	box-shadow: 10px 10px 5px -2px #5878CA;
+}
+.anuncio_texto {
+	float: right;
+    width: 65%;
+    padding-top:2%;
+    padding-left: 6%;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1.0em;
+ 	font-weight: 500;
+    
+}
+.anuncio_foto {
+    float: left;
+    width: 27%;	
+}
+.imagen {
+    float: left;
+    border: 3px solid #ddd;
+    border-radius: 20%;
+    width: 100%;
+    height: auto;
+    margin-right: 4%;
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1% 1% 1% 1%;
+}
+.icono {
+    width: 5%;
+    height: auto;
+    margin-right: 5%;
+    margin-left: 2%;
+}   
+
+/****************** EDITAR VIVIENDA  ************************************/
+.formulario {
+    margin-top: 2%;
+    width: 95%;
+    background: #ffffff;
+    color: #000000;
+    padding: 2% 2% 2% 2%;
+    box-shadow:-4px -4px 1px #438a5e;
+    -webkit-box-shadow: 10px 10px 5px -2px #5878CA;
+	-moz-box-shadow: 10px 10px 5px -2px #5878CA;
+	box-shadow: 10px 10px 5px -2px #5878CA;
+	border:2px solid #5878CA;
+
+}
+
+.leyenda {
+	position:static;
+	border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	-webkit-border-radius: 0px 0px 0px 0px;
+	border: 2px solid #5878CA;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	text-align:left;
+	font-size:1.5em;
+	font-weight:600;
+	font-style:normal;
+	padding-left:2%;	
+}
+
+label {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1.3em;
+ 	font-weight: 600;
+}
+
+.entrada_zona{
+    width:60em;
+    margin:10px;
+    margin-left:13%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_zona:focus{
+    background:#fff;
+	width:65em;
+}
+
+.entrada_precio{
+    width:10em;
+    margin:10px;
+    margin-left:12%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_precio:focus{
+    background:#fff;
+ 	width:15em;
+}
+
+.entrada_superficie {
+	width:10em;
+    margin:10px;
+    margin-left:5.5%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_superficie:focus{
+	background:#fff;
+ 	width:15em;
+}
+
+.entrada_tipo {
+	width:15em;
+    margin:10px;
+    margin-left:4.5%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_tipo:focus{
+	background:#fff;
+}
+.entrada_habitaciones {
+	width:5em;
+    margin:10px;
+    margin-left:7%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_habitaciones:focus{
+	background:#fff;
+ 	width:7em;
+}
+.entrada_aseos {
+	width:5em;
+    margin:10px;
+    margin-left:12.5%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_aseos:focus{
+	background:#fff;
+ 	width:7em;
+}
+.entrada_estado {
+	width:15em;
+    margin:10px;
+    margin-left:12%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_estado:focus{
+	background:#fff;
+}
+
+.entrada_caracteristicas {
+	width:25em;
+    margin:10px;
+    margin-left:12.5%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_caracteristicas:focus{
+	background:#fff;
+}
+
+.entrada_telefono {
+	width:5em;
+    margin:10px;
+    margin-left:11%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_telefono:focus{
+	background:#fff;
+ 	width:7em;
+}
+.entrada_email {
+	width:10em;
+    margin:10px;
+    margin-left:13%;
+    padding:10px 16px;
+    border-radius:32px;
+    outline:none;
+    border:2px solid #000000;
+    background:#ffffff;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1em;
+ 	font-weight: 600;
+    transition:all 0.5s;
+}
+.entrada_email:focus{
+	background:#fff;
+ 	width:12em;
+}
+
+fieldset {
+	border:3px solid #438a5e;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+ 	font-size: 1.1em;
+ 	font-weight: 600;
+  	width: 90%;
+    
+}
+
+.entrada_foto::-webkit-file-upload-button {
+  	visibility: hidden;
+}
+.entrada_foto::before{
+  content: 'Selecciona';
+  display: inline-block;
+  background: linear-gradient(top, #f9f9f9, #e3e3e3);
+  border: 3px solid #5b8a3c;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: none;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  cursor: pointer;
+  text-shadow: 1px 1px #fff;
+  font-weight: 700;
+  font-size: 10pt;
+}
+.entrada_foto:hover::before {
+  border-color: black;
+}
+.entrada_foto:active::before {
+  background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+}
+
+.elige_foto{
+	float:left;
+	width: 25%;
+	height:10em;
+	margin-left:4%;
+	margin-top:8%;
+
+}
+
+.preview_foto {
+	float:left;
+    width: 23%;
+    height:20em;
+
+}
+
+.contenedor{
+
+	width:100%;
+	height:20em;
+}
+
+.contenedor_boton {
+	float:left;
+    width: 25%;
+
+    height:20em;
+    
+}
+
+.boton_registrar {
+	-moz-box-shadow: 0px 10px 14px -7px #3e7327;
+	-webkit-box-shadow: 0px 10px 14px -7px #3e7327;
+	box-shadow: 0px 10px 14px -7px #3e7327;
+	background-color:transparent;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+	text-indent:0;
+	border:1px solid #4b8f29;
+	display:inline-block;
+	color:#000000;
+	font-family:arial;
+	font-size:30px;
+	font-weight:600;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+	width:14em;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #5b8a3c;
+	margin-left:35%;
+	margin-top:35%;
+
+}
+
+
+
