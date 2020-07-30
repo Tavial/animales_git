@@ -1,0 +1,5 @@
+Tatiana
+Tatiana -> Tiempo: 11.0
+Alfredo -> Tiempo: 13.0 segundos
+Tatiana Viejo -> Tiempo: 13.0 segundos
+Anónimo -> Tiempo: 6.0 segundos
